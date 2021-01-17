@@ -57,10 +57,6 @@ li.title:hover {
     font-size: 1.25em;
 }
 
-.navbar-brand a {
-    color:#000;
-}
-
 .navbar-nav.navbar-right:last-child {
     margin-right: -30px;
 }
