@@ -29,7 +29,6 @@ body.mobile {
 
 .title a {
     display: inline-block;
-    color:#000;
 }
 
 li.title:hover {
@@ -54,8 +53,8 @@ li.title:hover {
     font-size: 100%;
 }
 
-.navbar-brand, .navbar-nav {
-    font-size: 1.5em;
+.navbar-brand {
+    font-size: 1.25em;
 }
 
 .navbar-brand a {
