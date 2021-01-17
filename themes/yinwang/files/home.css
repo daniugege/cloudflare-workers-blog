@@ -29,6 +29,7 @@ body.mobile {
 
 .title a {
     display: inline-block;
+    color:#000;
 }
 
 li.title:hover {
@@ -54,7 +55,11 @@ li.title:hover {
 }
 
 .navbar-brand, .navbar-nav {
-    font-size: 24px;
+    font-size: 1.5em;
+}
+
+.navbar-brand a {
+    color:#000;
 }
 
 .navbar-nav.navbar-right:last-child {
@@ -98,7 +103,7 @@ body.mobile .navbar-default .navbar-toggle {
 }
 
 div.outer {
-    margin: 50px 10% 2% 10%;
+    margin: 50px 5% 2% 5%;
 }
 
 .list-group {
