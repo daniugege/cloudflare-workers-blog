@@ -18,7 +18,6 @@ body.mobile {
 }
 
 .navbar-brand {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
     font-size: 100%;
 }
 
@@ -54,7 +53,7 @@ li.title:hover {
 }
 
 .navbar-brand {
-    font-size: 1.25em;
+    font-size: 1.35em;
 }
 
 .navbar-nav.navbar-right:last-child {
