@@ -47,6 +47,12 @@
 					{{ /articleList }}
 				</ul>
 			</div>
+			{{ #pageNewer }} 
+			<div><a href="{{ &url }}">上一页</a></div>
+			{{ /pageNewer }}
+			{{ #pageOlder }}
+			<div><a href="{{ &url }}">下一页</a></div>
+			{{ /pageOlder }}
 			<div class="oldblog">
 				<p class="text-center">
 					{{ &OPT.copyRight }}
