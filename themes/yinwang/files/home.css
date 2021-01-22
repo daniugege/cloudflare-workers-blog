@@ -57,15 +57,11 @@ padding: 10px;
 box-shadow: 0 0 3px 1px rgba(0,0,0,.1);
 }
 
-.navbar-brand {
-    font-size: 1.35em;
-}
-
 .navbar-nav.navbar-right:last-child {
     margin-right: -30px;
 }
 
-.main{padding-top:92px}
+.main{padding-top:92px;font-size:21px;}
 
 .mobile .main{padding-top:114px}
 
@@ -91,7 +87,7 @@ body.mobile .navbar-nav {
 }
 
 body.mobile div.outer {
-    margin: 40px 4% 2% 4%;
+    margin: 2% 4%;
 }
 
 body.mobile .navbar-nav>li>a {
@@ -104,7 +100,7 @@ body.mobile .navbar-default .navbar-toggle {
 }
 
 div.outer {
-    margin: 50px 10% 2% 10%;
+    margin: 2% 10%;
 }
 
 .list-group {
