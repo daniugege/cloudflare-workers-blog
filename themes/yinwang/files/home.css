@@ -31,7 +31,7 @@ body.mobile {
 }
 
 li.title:hover {
-    background-color: #eee;
+    background-color: #f8f8f8;
 }
 
 .panel {
@@ -47,7 +47,6 @@ li.title:hover {
 
 .navbar-default {
 background-image: none;
-background-color: #fff;
 box-shadow: none;
 font-size: 100%;
 position: fixed;
@@ -61,9 +60,9 @@ box-shadow: 0 0 3px 1px rgba(0,0,0,.1);
     margin-right: -30px;
 }
 
-.main{padding-top:92px;font-size:21px;}
+.main{padding-top:138px;}
 
-.mobile .main{padding-top:114px}
+.mobile .main{padding-top:180px}
 
 body.mobile .navbar {
     padding: 20px;
