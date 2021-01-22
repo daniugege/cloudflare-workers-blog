@@ -46,10 +46,15 @@ li.title:hover {
 }
 
 .navbar-default {
-    background-image: none;
-    background-color: #fff;
-    box-shadow: none;
-    font-size: 100%;
+background-image: none;
+background-color: #fff;
+box-shadow: none;
+font-size: 100%;
+position: fixed;
+width: 100%;
+z-index: 999;
+padding: 10px;
+box-shadow: 0 0 3px 1px rgba(0,0,0,.1);
 }
 
 .navbar-brand {
@@ -60,10 +65,12 @@ li.title:hover {
     margin-right: -30px;
 }
 
+.main{padding-top:92px}
+
+.mobile .main{padding-top:114px}
+
 body.mobile .navbar {
-    padding: 20px 20px;
-    margin: 4% 4% 0% 4%;
-    border-radius: 20px;
+    padding: 20px;
 }
 
 body.mobile #navbar-bs {
