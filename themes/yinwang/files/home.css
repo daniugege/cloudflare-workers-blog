@@ -12,6 +12,7 @@ li.title:hover{background-color:#f8f8f8}
 .navbar-nav.navbar-right:last-child{margin-right:-30px}
 .main{padding-top:138px}
 .mobile .main{padding-top:180px}
+.mobile .adsjtext{text-align:left;display:block;margin:8px 0;font-size:1.35em}
 .ad{text-align:center}
 .ad img{width:100%;max-width:960px}
 body.mobile .navbar{padding:20px}
